@@ -1,0 +1,213 @@
+ACUERDO DE LICENCIA DE USUARIO FINAL
+MettaOffice Pro (el "Software")
+Mettatec - Versión del Software: 1.0.9 - Fecha del acuerdo: [DD/MM/AAAA]
+
+IMPORTANTE: LEA ESTE ACUERDO ANTES DE INSTALAR EL SOFTWARE.
+
+Este es un acuerdo legal entre usted (persona física o jurídica que instala
+o utiliza el Software, el "Licenciatario") y Metta Technologies S.A.C.,
+con RUC [N.° DE RUC] y domicilio en [DOMICILIO LEGAL], Perú ("Mettatec",
+"nosotros"). Al hacer clic en "Acepto", al instalar, copiar o utilizar de
+cualquier otra forma el Software, usted declara haber leído este acuerdo y
+consiente quedar obligado por sus términos. Si actúa en nombre de una
+empresa u otra entidad, declara tener autoridad para obligarla a estos
+términos. Si no está de acuerdo, no instale ni utilice el Software y
+desinstale cualquier copia que ya tuviera.
+
+1. OBJETO DE LA LICENCIA Y ACTUALIZACIONES
+   1.1. Sujeto al cumplimiento de este acuerdo y al pago de las sumas que
+        correspondan según el plan contratado, Mettatec le concede una
+        licencia limitada, no exclusiva e intransferible para instalar y
+        utilizar el Software en los equipos que usted controle, dentro de
+        los límites del nivel de licencia (Estándar o Premium) y la
+        cantidad de asientos activados que correspondan a su clave.
+   1.2. La activación de una clave de licencia vincula esa clave al equipo
+        en el que se activa. Cada equipo activado consume un asiento del
+        plan contratado; superado ese límite, no podrán activarse equipos
+        adicionales sin ampliar el plan o liberar un asiento existente
+        (desactivación desde el propio Software).
+   1.3. Duración de la licencia. La licencia es perpetua respecto de las
+        versiones del Software a las que usted tenga derecho conforme a
+        esta Sección 1, salvo terminación conforme a la Sección 9.
+   1.4. Periodo de actualizaciones. La adquisición de la licencia incluye
+        el derecho a descargar e instalar las actualizaciones y nuevas
+        versiones del Software que Mettatec publique durante los doce (12)
+        meses siguientes a la fecha de adquisición (el "Periodo de
+        Actualizaciones"). Finalizado ese periodo, usted podrá seguir
+        utilizando, sin límite de tiempo, la última versión a la que tuvo
+        derecho, pero no recibirá nuevas versiones. Podrá extender el
+        acceso a actualizaciones por periodos adicionales, de acuerdo con
+        las condiciones y tarifas que Mettatec tenga vigentes. Mettatec
+        podrá comercializar por separado módulos o productos nuevos que no
+        formen parte del nivel de licencia contratado.
+   1.5. Los módulos y funciones habilitados dependen del nivel de licencia
+        contratado. Mettatec podrá modificar el catálogo de funciones
+        asociado a cada nivel únicamente en versiones nuevas del Software;
+        dichos cambios no reducirán las funciones de las versiones que
+        usted ya hubiera instalado y a las que tuviera derecho, ni
+        afectarán trabajos ya procesados.
+   1.6. El soporte técnico se presta en las condiciones del plan
+        contratado.
+
+2. PROPIEDAD INTELECTUAL
+   El Software se licencia, no se vende. Mettatec y sus proveedores
+   conservan todos los derechos, títulos e intereses sobre el Software,
+   incluido su código fuente, motor de procesamiento GNSS, algoritmos,
+   estructura, organización, documentación, marcas y elementos de
+   interfaz, salvo los derechos de uso expresamente concedidos aquí. Este
+   acuerdo no le transfiere ningún derecho de propiedad intelectual sobre
+   el Software, ni total ni parcialmente.
+
+   El Software está protegido como obra bajo el Decreto Legislativo N.°
+   822, Ley sobre el Derecho de Autor, que ampara los programas de
+   ordenador en los mismos términos que las obras literarias. En el Perú,
+   la autoridad administrativa competente en materia de derechos de autor
+   es la Dirección de Derecho de Autor del Instituto Nacional de Defensa
+   de la Competencia y de la Protección de la Propiedad Intelectual
+   (INDECOPI), sin perjuicio de las acciones civiles o penales que
+   correspondan ante el Poder Judicial.
+
+3. RESTRICCIONES DE USO
+   Salvo que la ley aplicable lo autorice de manera imperativa (en cuyo
+   caso solo en la medida estrictamente necesaria), usted no podrá:
+   (a) realizar ingeniería inversa, descompilar, desensamblar o intentar
+       derivar el código fuente del Software o de su motor de
+       procesamiento;
+   (b) eludir, desactivar o interferir con los mecanismos de activación,
+       verificación de licencia o protección del Software;
+   (c) redistribuir, sublicenciar, alquilar, prestar o poner el Software a
+       disposición de terceros sin autorización previa y por escrito de
+       Mettatec;
+   (d) eliminar, ocultar o alterar avisos de derechos de autor, marcas o
+       avisos de licencia de terceros presentes en el Software o su
+       documentación; ni
+   (e) usar el Software para fines distintos de los previstos en su
+       documentación, incluyendo cualquier uso que ponga en riesgo la
+       integridad de datos de terceros.
+
+   Las restricciones de esta Sección 3 no se aplican a los componentes de
+   terceros en la medida en que la licencia de dichos componentes
+   (Sección 6) otorgue expresamente derechos adicionales.
+
+   El uso del Software sin licencia válida, la activación de más equipos
+   que los asientos contratados, o cualquier otro acto comprendido en esta
+   Sección 3, constituye una infracción a los derechos de autor de
+   Mettatec sobre el Software conforme al Decreto Legislativo N.° 822.
+   Mettatec se reserva el derecho de perseguir dicha infracción por todas
+   las vías que la ley reconoce, de forma independiente o conjunta: (i) la
+   vía administrativa ante INDECOPI, con las multas y medidas correctivas
+   que ese organismo pueda imponer; (ii) la vía civil ante el Poder
+   Judicial, para el resarcimiento de los daños y perjuicios ocasionados;
+   y (iii) la vía penal, dado que la reproducción, distribución o puesta a
+   disposición no autorizada de un programa de ordenador con fines
+   comerciales podrá constituir delito contra los derechos de autor bajo
+   los artículos 217 y 218 del Código Penal (Decreto Legislativo N.° 635),
+   sancionado con pena privativa de libertad y multa, agravada en los
+   supuestos que la ley establece.
+
+4. DATOS DEL USUARIO Y RESULTADOS DE PROCESAMIENTO
+   El Software procesa observaciones GNSS, nubes de puntos, rásters de
+   elevación/ortofoto y demás datos geoespaciales que usted provea (los
+   "Datos"). Los Datos, y los resultados que el Software genere a partir
+   de ellos (posiciones procesadas, informes, superficies, exportaciones),
+   son de su exclusiva propiedad. Mettatec no reclama derecho alguno sobre
+   los Datos ni sobre dichos resultados, y no accede a ellos salvo que
+   usted lo solicite expresamente para soporte técnico.
+
+5. INFORMACIÓN DE ACTIVACIÓN Y DATOS PERSONALES
+   Para activar y verificar la licencia, el Software puede enviar a los
+   servidores de Mettatec la clave de licencia, un identificador del
+   equipo, la versión del Software y la dirección IP desde la que se
+   realiza la conexión [AJUSTAR: completar o eliminar según lo que el
+   Software realmente transmita]. Mettatec trata esta información
+   únicamente para gestionar la licencia, prevenir su uso no autorizado y
+   prestar soporte, conforme a la Ley N.° 29733, Ley de Protección de
+   Datos Personales, y a su política de privacidad disponible en
+   [URL DE LA POLÍTICA DE PRIVACIDAD]. Esta Sección no se refiere a los
+   Datos descritos en la Sección 4, a los que Mettatec no accede.
+
+6. COMPONENTES DE TERCEROS
+   El Software incorpora determinados componentes de terceros bajo sus
+   propias licencias. El detalle de cada componente y su licencia figura
+   en el archivo THIRD-PARTY-LICENSES.txt instalado junto al Software y
+   accesible desde su grupo del menú Inicio. Esas licencias rigen el uso
+   de cada componente en particular y prevalecen sobre este acuerdo
+   respecto de ellos.
+
+7. SIN GARANTÍA
+   EN LA MÁXIMA MEDIDA PERMITIDA POR LA LEY, EL SOFTWARE SE PROPORCIONA
+   "TAL CUAL" Y "SEGÚN DISPONIBILIDAD", SIN GARANTÍA DE NINGÚN TIPO,
+   EXPRESA, IMPLÍCITA O LEGAL, INCLUYENDO SIN LIMITACIÓN GARANTÍAS DE
+   COMERCIABILIDAD, CALIDAD SATISFACTORIA, IDONEIDAD PARA UN FIN
+   PARTICULAR O EXACTITUD DE LOS RESULTADOS DE PROCESAMIENTO. Usted es
+   responsable de validar la precisión de los resultados generados por el
+   Software para su aplicación particular, especialmente en trabajos de
+   precisión geodésica o catastral.
+
+8. LIMITACIÓN DE RESPONSABILIDAD
+   El Software procesa los Datos que usted provee y entrega los resultados
+   que de ellos se deriven (posiciones, informes, superficies u otras
+   salidas de procesamiento). Mettatec no será responsable por el uso
+   indebido del Software, ni por datos falsificados, alterados o
+   inexactos que usted u otros hayan introducido, ni por las decisiones o
+   consecuencias derivadas del uso que usted haga de los resultados
+   entregados.
+
+   En la máxima medida permitida por la ley, Mettatec no será responsable
+   por daños indirectos, incidentales o consecuenciales, incluyendo lucro
+   cesante, pérdida de datos, pérdida de oportunidades de negocio o costos
+   de repetición de trabajos, y su responsabilidad total frente a usted
+   por cualquier causa derivada de este acuerdo no excederá [MONTO O
+   CRITERIO, por ejemplo: el importe efectivamente pagado por usted por
+   la licencia en los doce (12) meses anteriores al hecho que originó el
+   reclamo].
+
+   Estas limitaciones no aplican en casos de dolo o culpa inexcusable de
+   Mettatec (artículo 1328 del Código Civil peruano).
+
+   Nada de lo dispuesto en este acuerdo limita, excluye ni afecta los
+   derechos irrenunciables que el Código de Protección y Defensa del
+   Consumidor (Ley N.° 29571) reconoce al Licenciatario cuando actúa como
+   consumidor final. Los reclamos en materia de protección al consumidor
+   pueden presentarse ante el Instituto Nacional de Defensa de la
+   Competencia y de la Protección de la Propiedad Intelectual (INDECOPI),
+   sin perjuicio de la vía judicial prevista en la Sección 10.
+
+9. VIGENCIA Y TERMINACIÓN
+   9.1. Esta licencia entra en vigencia al aceptar este acuerdo y, de
+        conformidad con la Sección 1.3, permanece vigente hasta su
+        terminación.
+   9.2. Mettatec podrá darla por terminada de forma inmediata si usted
+        incumple cualquiera de sus términos. Usted puede terminarla en
+        cualquier momento desinstalando el Software y desactivando sus
+        equipos.
+   9.3. Terminada la licencia, cesa su derecho de uso del Software, sin
+        perjuicio de lo dispuesto en la Sección 4 respecto de sus propios
+        Datos y resultados.
+   9.4. Reembolsos: [POLÍTICA DE DEVOLUCIÓN, por ejemplo: plazo y
+        condiciones], sin perjuicio de los derechos que la Ley N.° 29571
+        reconozca al Licenciatario cuando actúa como consumidor final.
+
+10. LEY APLICABLE Y JURISDICCIÓN
+    Este acuerdo se rige por las leyes de la República del Perú, sin dar
+    efecto a sus disposiciones sobre conflicto de leyes, independientemente
+    del país desde el cual se instale o utilice el Software. Cualquier
+    controversia derivada de este acuerdo se someterá a los tribunales
+    ordinarios con competencia en la ciudad de Lima, con renuncia expresa a
+    cualquier otro fuero que pudiera corresponder.
+
+11. DISPOSICIONES GENERALES
+    Si alguna disposición de este acuerdo fuera declarada inválida o
+    inaplicable, las restantes disposiciones continuarán en pleno vigor y
+    efecto. La falta de ejercicio por parte de Mettatec de algún derecho
+    aquí previsto no implicará renuncia a él. Usted no podrá ceder este
+    acuerdo, total o parcialmente, sin el consentimiento previo y por
+    escrito de Mettatec. Este acuerdo constituye el entendimiento íntegro
+    entre las partes respecto del Software y reemplaza cualquier acuerdo o
+    manifestación previa, oral o escrita, sobre el mismo objeto.
+
+12. CONTACTO
+    Consultas sobre este acuerdo, soporte técnico o licenciamiento:
+    gnss.datalab@mettatec.com
+
+Copyright (c) 2026 Metta Technologies S.A.C. Todos los derechos reservados.
